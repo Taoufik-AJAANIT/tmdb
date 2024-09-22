@@ -1,0 +1,15 @@
+Docs
+
+
+- Création d’un nouveau projet.https://react.dev/learn/start-a-new-react-project
+Sur cette page l’équipe react nous recommande de commencer directement avec un framwork et ne pas utiliser React seul avec l’ancienne cli (create-react-app)
+Pour cela j’ai choisi d’utiliser Next.js
+
+
+- Creation d’un theme en utilisant: https://daisyui.com/theme-generator/
+- Recherche sur le App router du next : https://nextjs.org/docs/app
+- Creation d'une index de axios pour les requetes http : https://rapidapi.com/guides/custom-axios-index
+- Plusieurs recherches sur la doc de tailwind https://tailwindcss.com/docs/
+- Recherche concernant les responsive design : https://stackoverflow.com/questions/61171101/problem-with-tailwind-css-responsive-flex-direction.
+
+
